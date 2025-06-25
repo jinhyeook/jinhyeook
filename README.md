@@ -1,4 +1,4 @@
-### .About Me
+### [About Me]
 **김진혁** (Kim Jin Hyoek) <br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimjinhyeok0519)](https://solved.ac/kimjinhyeok0519)<br>
 🎓 Anyang University, Department of Software ( 2020.03 ~ Present )<br>
@@ -7,7 +7,7 @@
 
 ---
 
-### .Skills & Tools
+### [Skills & Tools]
 
 💻 Languages &nbsp; <img src="https://img.shields.io/badge/Python-623AA2?style=flat-square"/> <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square"/>
 
@@ -17,13 +17,13 @@
 
 ---
 
-### .Experience
+### [Experience]
 > **ESTsoft AI 개발자 교육** <br>
 > Duration: 2024.08 ~ 2024.12 <br>
 
 ---
 
-### .Projcet
+### [Projcet]
 > **사용자의 표정을 기반한 심리상담가 챗봇**
 > 2024.11 ~ 2024.12 <br>
 > Skills & Tools : Visual Studio Code, Python, LLM, CNN <br>
@@ -31,5 +31,5 @@
 
 ---
 
-### Contact
+### [Contact]
 - Email: [kimjinhyeok0519@gmail.com]
