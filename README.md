@@ -1,5 +1,5 @@
 ### [About Me]
-**김진혁** (Kim Jin Hyoek) <br>
+**김진혁** (Kim Jin Hyeok) <br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimjinhyeok0519)](https://solved.ac/kimjinhyeok0519)<br>
 🎓 Anyang University, Department of Software ( 2020.03 ~ Present )<br>
 ➡️ 관심 분야 &nbsp; : &nbsp; LLM / Computer Vision / Deep Learning / Machine Learning<br>
