@@ -11,9 +11,9 @@
 
 💻 Languages &nbsp; <img src="https://img.shields.io/badge/Python-623AA2?style=flat-square"/> <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square"/>
 
-📊 Data / AI &nbsp; <img src="https://img.shields.io/badge/pandas-150458?style=flat-square"/>  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square"/> <img src="https://img.shields.io/badge/LangChain-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square"/>
+📊 Data / AI &nbsp; <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square"/> <img src="https://img.shields.io/badge/LangChain-2ECC71?style=flat-square"/> <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square"/>
 
-🛠️ Tools &nbsp; <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-0E5CAD?style=flat-square"/> <img src="https://img.shields.io/badge/Flask-2C3E50?style=flat-square"/> <img src="https://img.shields.io/badge/AWS-9708CC?style=flat-square"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square"/>
+🛠️ Tools &nbsp; <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square"/> <img src="https://img.shields.io/badge/Google Colab-F37626?style=flat-square"/> <img src="https://img.shields.io/badge/Docker-0E5CAD?style=flat-square"/> <img src="https://img.shields.io/badge/Flask-2C3E50?style=flat-square"/> <img src="https://img.shields.io/badge/AWS-9708CC?style=flat-square"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square"/>
 
 ---
 
