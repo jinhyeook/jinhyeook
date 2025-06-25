@@ -26,7 +26,7 @@
 ### Projcet.
 > **사용자의 표정을 기반한 심리상담가 챗봇**
 > 2024.11 ~ 2024.12 <br>
-> Skills & Tools : Vscode, Python, LLM, CNN <br>
+> Skills & Tools : Visual Studio Code, Python, LLM, CNN <br>
 > Contents : 사용자의 얼굴 이미지를 이용해 표정(화남, 슬픔, 행복, 당황함)을 탐지하고 이를 기반으로 심리상담가의 역할을 수행하는 챗봇 구현
 
 ---
