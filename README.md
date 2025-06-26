@@ -2,8 +2,8 @@
 **김진혁** (Kim Jin Hyeok) <br> <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimjinhyeok0519)](https://solved.ac/kimjinhyeok0519)<br> -->
 🎓 Anyang University, Department of Software ( 2020.03 ~ Present )<br>
 ➡️ 관심 분야 &nbsp; : &nbsp; LLM / Computer Vision / Deep Learning / Machine Learning<br>
-➡️ Prompt Engineer,&nbsp; ML/DL Engineer가 되기 위해 공부하고 있어요.<br>
-[![Notion 문서로 이동](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/jinhyoek/Home-21dd9d7a4ed680b6a30acfaca1a8b029?source=copy_link)
+➡️ Prompt Engineer,&nbsp; ML/DL Engineer가 되기 위해 공부하고 있어요.<br><br>
+🔗 [![Notion 문서로 이동](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/jinhyoek/Home-21dd9d7a4ed680b6a30acfaca1a8b029?source=copy_link)
 
 ---
 
