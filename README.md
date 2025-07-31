@@ -1,7 +1,7 @@
 ### [About Me]
 **김진혁** (Kim Jin Hyeok) <br> <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimjinhyeok0519)](https://solved.ac/kimjinhyeok0519)<br> -->
 🎓 Anyang University, Department of Software ( 2020.03 ~ Present )<br>
-➡️ 관심 분야 &nbsp; : &nbsp; RAG /LLM Fine-tuning / Prompt Engineering / Computer Vision / Deep Learning / Machine Learning <br>
+➡️ 관심 분야 &nbsp; : &nbsp; RAG / LLM Fine-tuning / Prompt Engineering / Computer Vision / Deep Learning / Machine Learning <br>
 🔗 기술 성장 기록 블로그 : [![Notion 문서로 이동](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/jinhyoek/Home-21dd9d7a4ed680b6a30acfaca1a8b029?source=copy_link)
 
 ---
