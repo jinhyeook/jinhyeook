@@ -8,7 +8,7 @@
 
 #### Skills <br>
 Python, SQL, Git, Notion <br>
-Tensorflow. Pytorch, Ultralytics, OpenCV, RAG, Flask 
+Pytorch, Tensorflow, Ultralytics, OpenCV, RAG, Flask 
 <br>
 <br>
 
