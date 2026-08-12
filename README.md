@@ -7,7 +7,7 @@
 > 🏠 : [My Tech Blog(Notion)](https://www.notion.so/jinhyoek/Home-21dd9d7a4ed680b6a30acfaca1a8b029?source=copy_link) [![Notion 문서로 이동](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/jinhyoek/Home-21dd9d7a4ed680b6a30acfaca1a8b029?source=copy_link) <br>
 > 👤 : [Portfolio(Notion)](https://app.notion.com/p/jinhyoek/230d9d7a4ed68098a574d819bb99cee7?source=copy_link)[![Notion 문서로 이동](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://app.notion.com/p/jinhyoek/230d9d7a4ed68098a574d819bb99cee7?source=copy_link) <br>
 
-#### Skills <br>
+### Skills <br>
 Python, SQL, Git, Notion <br>
 Pytorch, Tensorflow, Ultralytics, OpenCV, RAG, Flask 
 <br>
@@ -15,7 +15,7 @@ Pytorch, Tensorflow, Ultralytics, OpenCV, RAG, Flask
 
 ---
 
-#### Personal Projects
+### Personal Projects
 
 > **공유 전동킥보드를 위한 비전 기반 안전지원 서비스 (rAider)** <br>
 | **🗓️ 2025.03 ~ 2025.12** <br>
@@ -37,7 +37,7 @@ keyword : Computer Vision, Object Dectection, YOLO, RAG, LangChain, Android, MyS
 
 ---
 
-#### Experience
+### Experience
 
 > **OUTTA AI 부트캠프** <br>
 | **🗓️ 2025.07 ~ 2025.08** <br>
