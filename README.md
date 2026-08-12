@@ -14,9 +14,7 @@ Pytorch, Tensorflow, Ultralytics, OpenCV, RAG, Flask
 <br>
 
 ---
-
 ### Personal Projects
-
 > **공유 전동킥보드를 위한 비전 기반 안전지원 서비스 (rAider)** <br>
 | **🗓️ 2025.03 ~ 2025.12** <br>
 YOLO 모델 기반 전방 장애물 탐지, 헬멧 착용 여부 탐지, 신고 유형 탐지 및 OCR을 활용한 운전면허증 검증 구현 및
@@ -36,9 +34,7 @@ keyword : Computer Vision, Object Dectection, YOLO, RAG, LangChain, Android, MyS
 <br>
 
 ---
-
 ### Experience
-
 > **OUTTA AI 부트캠프** <br>
 | **🗓️ 2025.07 ~ 2025.08** <br>
 PyTorch 기반 딥러닝 아키텍처 및 LLaMA-Factory를 활용한 LLM 파인튜닝(SFT, DPO, PPO) 기법 학습 <br>
