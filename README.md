@@ -1,4 +1,4 @@
-#### Kim Jin Hyeok <br>
+### Kim Jin Hyeok <br>
 **AI Engineering Student** <br>
 ➡️ **Interest** : Computer Vision, RAG, AI <br>
 
@@ -32,7 +32,6 @@ keyword : Computer Vision, Object Dectection, YOLO, RAG, LangChain, Android, MyS
 | **🗓️ 2023.11 ~ 2023.12** <br>
 인스타그램 게시물 데이터 크롤링 수집 및 유사도 기반 여행지 추천 시스템구현
 > keyword : BeautifulSoup, Selenium, MySQL, Flask, PyQt
-
 <br>
 <br>
 
