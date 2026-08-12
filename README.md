@@ -25,12 +25,12 @@ keyword : Computer Vision, Object Dectection, YOLO, RAG, LangChain, Android, MyS
 
 > **사용자 표정 기반 심리상담 챗봇** <br>
 | **🗓️ 2024.11 ~ 2024.12** <br>
-사용자 얼굴 표정(분노, 슬픔, 행복, 당황) 분석 결과를 바탕으로 맞춤형 심리상담을 제공하는 챗봇 개발
+사용자 얼굴 표정(분노, 슬픔, 행복, 당황) 분석 결과를 바탕으로 맞춤형 심리상담을 제공하는 챗봇 개발 <br>
 > keyword : CNN, OpenCV, LangChain, Streamlit
 
 > **인스타그램 게시물 기반 여행지 추천 서비스** <br>
 | **🗓️ 2023.11 ~ 2023.12** <br>
-인스타그램 게시물 데이터 크롤링 수집 및 유사도 기반 여행지 추천 시스템구현
+인스타그램 게시물 데이터 크롤링 수집 및 유사도 기반 여행지 추천 시스템구현 <br>
 > keyword : BeautifulSoup, Selenium, MySQL, Flask, PyQt
 <br>
 <br>
