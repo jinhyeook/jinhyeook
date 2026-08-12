@@ -3,9 +3,9 @@
 ➡️ **Interest** : Computer Vision, RAG, AI <br>
 
 > 🎓 Anyang University, Department of Software (2020.03 ~ 2026.08) <br>
-> ✉️ kimjinhyeok0519@gmail.com <br>
-> 🏠 [My Tech Blog(Notion)](https://www.notion.so/jinhyoek/Home-21dd9d7a4ed680b6a30acfaca1a8b029?source=copy_link) [![Notion 문서로 이동](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/jinhyoek/Home-21dd9d7a4ed680b6a30acfaca1a8b029?source=copy_link) <br>
-> 👤 [Portfolio(Notion)](https://app.notion.com/p/jinhyoek/230d9d7a4ed68098a574d819bb99cee7?source=copy_link)[![Notion 문서로 이동](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://app.notion.com/p/jinhyoek/230d9d7a4ed68098a574d819bb99cee7?source=copy_link) <br>
+> ✉️ : kimjinhyeok0519@gmail.com <br>
+> 🏠 : [My Tech Blog(Notion)](https://www.notion.so/jinhyoek/Home-21dd9d7a4ed680b6a30acfaca1a8b029?source=copy_link) [![Notion 문서로 이동](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/jinhyoek/Home-21dd9d7a4ed680b6a30acfaca1a8b029?source=copy_link) <br>
+> 👤 : [Portfolio(Notion)](https://app.notion.com/p/jinhyoek/230d9d7a4ed68098a574d819bb99cee7?source=copy_link)[![Notion 문서로 이동](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://app.notion.com/p/jinhyoek/230d9d7a4ed68098a574d819bb99cee7?source=copy_link) <br>
 
 #### Skills <br>
 Python, SQL, Git, Notion <br>
