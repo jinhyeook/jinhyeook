@@ -30,7 +30,7 @@ keyword : Computer Vision, Object Dectection, YOLO, RAG, LangChain, Android, MyS
 
 > **인스타그램 게시물 기반 여행지 추천 서비스** <br>
 | **🗓️ 2023.11 ~ 2023.12** <br>
-인스타그램 게시물 데이터 크롤링 수집 및 유사도 기반 여행지 추천 시스템구현 <br>
+인스타그램 게시물 데이터 크롤링 수집 및 단어 간 유사도 기반 여행지 추천 시스템구현 <br>
 > keyword : BeautifulSoup, Selenium, MySQL, Flask, PyQt
 <br>
 <br>
