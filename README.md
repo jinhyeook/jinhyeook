@@ -5,12 +5,8 @@
 > 🎓 Anyang University, Department of Software (2020.03 ~ 2026.08) <br>
 > ✉️ kimjinhyeok0519@gmail.com <br>
 > 🔗 [My Tech Blog (Notion)](https://www.notion.so/jinhyoek/Home-21dd9d7a4ed680b6a30acfaca1a8b029?source=copy_link) <br>
-<br>
-<br>
 
----
-
-#### Skills
+#### Skills <br>
 Python, SQL, Git, Notion <br>
 Tensorflow. Pytorch, Ultralytics, OpenCV, RAG, Flask 
 <br>
