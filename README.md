@@ -1,5 +1,5 @@
 ### Kim Jin Hyeok <br>
-**AI Engineering Student** <br>
+**AI Engineering & Software Eeningeering Student** <br>
 ➡️ **Interest** : Computer Vision, RAG, AI <br>
 
 > 🎓 Anyang University, Department of Software (2020.03 ~ 2026.08) <br>
