@@ -1,45 +1,48 @@
-### [About Me]
-**김진혁** (Kim Jin Hyeok) <br> <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimjinhyeok0519)](https://solved.ac/kimjinhyeok0519)<br> -->
-🎓 Anyang University, Department of Software ( 2020.03 ~ Present ) <br>
-✉️ **e-mail** : kimjinhyeok0519@gmail.com <br>
-🔗 **Hugging Face** : https://huggingface.co/jinhyeook <br>
-<!--🔗 기술 성장 기록 블로그 : [![Notion 문서로 이동](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/jinhyoek/Home-21dd9d7a4ed680b6a30acfaca1a8b029?source=copy_link)-->
+#### Kim Jin Hyeok <br>
+**AI Engineering Student** <br>
+➡️ **Interest** : Computer Vision, RAG, AI <br>
+
+> 🎓 Anyang University, Department of Software (2020.03 ~ 2026.08) <br>
+> ✉️ kimjinhyeok0519@gmail.com <br>
+> 🔗 [My Tech Blog (Notion)](https://www.notion.so/jinhyoek/Home-21dd9d7a4ed680b6a30acfaca1a8b029?source=copy_link) <br>
+<br>
+<br>
 
 ---
 
-### [Skills & Tools]
-
-👉 Language : **Python**
-
-👉 Libraries / Frameworks : <br>
-**Scikit-learn**, **Pandas**, **Pytorch, RAG, LLM Fine-tuning,** **LangChain**, **LangGraph** <br>
-
-👉 Tools / Platforms : <br> 
-**Visual Studio Code**, **Google Colab**, **Git, Notion, Runpod, Hugging Face, LLaMA-Factory, Axolotl, Wandb** <br>
+#### Skills
+Python, SQL, Git, Notion <br>
+Tensorflow. Pytorch, Ultralytics, OpenCV, RAG, Flask 
+<br>
+<br>
 
 ---
 
-### [Experience]
-**ESTsoft AI 개발자 교육** <br>
-> 🗓️ : 2024.08 ~ 2024.12 (5개월) <br>
+#### Personal Projects
 
-**OUTTA AI 부트캠프** <br>
-> 🗓️ : 2025.07 ~ 2025.08 (2개월) <br>
+> **공유 전동킥보드를 위한 비전 기반 안전지원 서비스 (rAider)** <br>
+| **🗓️ 2025.03 ~ 2025.12** <br>
+YOLO 모델 기반 전방 장애물 탐지, 헬멧 착용 여부 탐지, 신고 유형 탐지 및 OCR을 활용한 운전면허증 검증 구현 <br> 
+
+> **사용자 표정 기반 심리상담 챗봇** <br>
+| **🗓️ 2024.11 ~ 2024.12** <br>
+실시간 얼굴 감정(분노, 슬픔, 행복, 당황) 분석 결과를 바탕으로 맞춤형 심리상담을 제공하는 챗봇 개발
+
+> **인스타그램 게시물 기반 여행지 추천 서비스 (App)** <br>
+| **🗓️ 2023.11 ~ 2023.12** <br>
+인스타그램 게시물 데이터 크롤링 수집 및 유사도 기반 여행지 추천 시스템구현
+
+<br>
+<br>
 
 ---
 
-### [Project]
-**인스타그램 게시물 기반 여행지 추천 서비스(앱)** <br>
-> 🗓️ : 2023.11 ~ 2023.12 <br>
-> Project Description : 인스타그램 게시물을 크롤링을 통해 데이터를 수집하고 Scikit-learn을 이용해 추천 시스템 구현
+#### Experience
 
+> **OUTTA AI 부트캠프** <br>
+| **🗓️ 2025.07 ~ 2025.08** <br>
+PyTorch 기반 딥러닝 아키텍처 및 LLaMA-Factory를 활용한 LLM 파인튜닝(SFT, DPO, PPO) 기법 학습 <br>
 
-**비만도 예측 모델** <br>
-> 🗓️ : 2024.09 ~ 2024.10 <br>
-> Project Description : 공공데이터 포털의 인바디 측정 데이터를 이용해 비만도를 예측하는 모델 구축
-
-
-**사용자의 표정 기반 심리상담가 챗봇** <br>
-> 🗓️ : 2024.11 ~ 2024.12 <br>
-> Project Description : 사용자의 얼굴 이미지를 이용해 표정(화남, 슬픔, 행복, 당황함)을 탐지하고 이를 기반으로 심리상담가의 역할을 수행하는 챗봇 구현
-
+> **ESTsoft AI 개발자 교육** <br>
+| **🗓️ 2024.08 ~ 2024.12** <br>
+AI 모델 개발자 교육 과정 수료 및 실무 수준의 AI 모델 개발 프로젝트 경험
